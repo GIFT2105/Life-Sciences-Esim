@@ -1,0 +1,8 @@
+import React, { useState, useEffect } from 'react';
+import { useRouter } from 'next/router';
+import { initializeApp } from 'firebase/app';
+import { getAuth, createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';
+import organism from '../public/icon8.jpg';
+import Image from 'next/image';
+import '../app/globals.css';
+import Sky from '../public/skull.jpg'

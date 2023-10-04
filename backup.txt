@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Madrid", "Paris", "Berlin", "London"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    // Add more questions here...
+  ]
+}
+
+
+[
+    {
+      "question": "What is this animal?",
+      "image": "../public/icon2.jpg",
+      "options": ["Dog", "Cat", "Bird", "Elephant"],
+      "correctAnswer": "Dog"
+    }
+    
+  ]

@@ -1,0 +1,60 @@
+ <h1>Welcome, {displayName}!</h1>
+
+
+
+ import React from 'react';
+import useFirebase from '../utils/useFirebase';
+import '../app/globals.css';
+
+
+const Dashboard = () => {
+  const { auth } = useFirebase();
+  const displayName = auth?.displayName || '';
+
+  return (
+    <div class="h-screen w-full bg-white relative flex overflow-hidden"     >
+    
+    <aside class="h-full w-16 flex flex-col space-y-10 items-center justify-center relative bg-teal-500 text-white"></aside>
+    
+   <div class="h-10 w-10 flex items-center justify-center rounded-lg cursor-pointer hover:text-gray-800 hover:bg-white  hover:duration-300 hover:ease-linear focus:bg-white">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd" /></svg>
+    </div>
+
+
+
+
+
+    </div>
+  );
+};
+
+export default Dashboard;
+
+
+
+
+             <Link href="/index">
+              <a className="w-72 h-52 flex rounded-lg flex-shrink-0 flex-grow bg-gray-400 items-center justify-center hover:bg-teal-600">
+                <p className="text-center justify-center font-serif text-white text-xl font-bold">
+                  Grade-12
+                </p>
+              </a>
+            </Link>
+
+            {/* Repeat the same pattern for other links */}
+            <Link href="/index">
+              <a className="w-72 h-52 rounded-lg flex-shrink-0 flex-grow bg-gray-400 justify-center items-center flex hover:bg-teal-600">
+                <p className="text-center justify-center font-serif text-white text-xl font-bold">
+                  Grade-11
+                </p>
+              </a>
+            </Link>
+
+            <Link href="/index">
+              <a className="w-72 h-52 rounded-lg flex-shrink-0 flex-grow bg-gray-400 justify-center items-center flex hover:bg-teal-600">
+                <p className="text-center justify-center font-serif text-white text-xl font-bold">
+                  Grade-10
+                </p>
+              </a>
+            </Link>
+

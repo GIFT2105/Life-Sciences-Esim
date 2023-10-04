@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary function of the cerebrum in the human brain?",
+      "options": ["Controls voluntary movements", "Regulates body temperature", "Responsible for higher thought processes", "Controls heartbeat and breathing"],
+      "correctAnswer": "Responsible for higher thought processes"
+    },
+    {
+      "question": "Which part of the brain is responsible for coordinating muscle movements and maintaining balance?",
+      "options": ["Cerebellum", "Medulla oblongata", "Thalamus", "Hippocampus"],
+      "correctAnswer": "Cerebellum"
+    },
+    {
+      "question": "What is the role of the hypothalamus in the human body?",
+      "options": ["Regulates sleep-wake cycles", "Controls hunger and thirst", "Regulates body temperature", "Processes visual information"],
+      "correctAnswer": "Controls hunger and thirst"
+    },
+    {
+      "question": "Which of the following is a characteristic of the central nervous system?",
+      "options": ["Consists of cranial and spinal nerves", "Includes sympathetic and parasympathetic nerves", "Comprises brain and spinal cord", "Contains autonomic and peripheral nervous systems"],
+      "correctAnswer": "Comprises brain and spinal cord"
+    },
+    {
+      "question": "What is the purpose of the choroid layer in the human eye?",
+      "options": ["Converts light stimuli into impulses", "Refracts light to form a clear image", "Rich in blood vessels and provides nutrients to the eye", "Controls the amount of light entering the eye"],
+      "correctAnswer": "Rich in blood vessels and provides nutrients to the eye"
+    },
+    {
+      "question": "Which part of the eye contains the photoreceptor cells responsible for vision?",
+      "options": ["Cornea", "Iris", "Retina", "Lens"],
+      "correctAnswer": "Retina"
+    },
+    {
+      "question": "What is the function of the cochlea in the human ear?",
+      "options": ["Maintains balance", "Controls sound localization", "Converts sound vibrations into electrical signals", "Regulates ear pressure"],
+      "correctAnswer": "Converts sound vibrations into electrical signals"
+    },
+    {
+      "question": "Which adaptation helps humans regulate body temperature?",
+      "options": ["Sweating", "Growing thicker fur", "Developing sharper claws", "Increasing body size"],
+      "correctAnswer": "Sweating"
+    },
+    {
+      "question": "What does the term 'homeostasis' refer to in biological systems?",
+      "options": ["Maintaining a stable internal environment", "Responding to external stimuli", "Adapting to changing environments", "Reproducing to ensure species survival"],
+      "correctAnswer": "Maintaining a stable internal environment"
+    },
+    {
+      "question": "Which hormone is responsible for the fight-or-flight response in humans?",
+      "options": ["Cortisol", "Insulin", "Adrenaline (Epinephrine)", "Thyroxine"],
+      "correctAnswer": "Adrenaline (Epinephrine)"
+    },
+    {
+      "question": "What is the primary function of the myelin sheath in nerve cells?",
+      "options": ["Speeds up the transmission of nerve impulses", "Regulates hormone secretion", "Provides structural support to neurons", "Controls muscle contractions"],
+      "correctAnswer": "Speeds up the transmission of nerve impulses"
+    },
+    {
+      "question": "Which part of the human brain is responsible for processing visual information?",
+      "options": ["Frontal lobe", "Occipital lobe", "Temporal lobe", "Parietal lobe"],
+      "correctAnswer": "Occipital lobe"
+    },
+    {
+      "question": "What is the purpose of the Eustachian tube in the human ear?",
+      "options": ["Equalizes pressure between the ear and the atmosphere", "Amplifies sound waves", "Detects changes in body position", "Controls balance and coordination"],
+      "correctAnswer": "Equalizes pressure between the ear and the atmosphere"
+    },
+    {
+      "question": "Which human ancestor is believed to be the common ancestor of modern humans and chimpanzees?",
+      "options": ["Homo habilis", "Australopithecus afarensis", "Homo erectus", "Ardipithecus ramidus"],
+      "correctAnswer": "Ardipithecus ramidus"
+    },
+    {
+      "question": "What is the function of the prefrontal cortex in the human brain?",
+      "options": ["Controls motor functions", "Regulates emotional responses and decision-making", "Processes sensory information", "Controls heart rate and breathing"],
+      "correctAnswer": "Regulates emotional responses and decision-making"
+    },
+    {
+      "question": "Which adaptation allowed early humans to effectively use tools?",
+      "options": ["Opposable thumbs", "Enhanced sense of smell", "Bioluminescence", "Ability to fly"],
+      "correctAnswer": "Opposable thumbs"
+    },
+    {
+      "question": "What is the purpose of the semicircular canals in the human ear?",
+      "options": ["Detect changes in temperature", "Detect changes in body position", "Maintain balance and equilibrium", "Amplify sound waves"],
+      "correctAnswer": "Maintain balance and equilibrium"
+    },
+    {
+      "question": "How does the human body respond to high temperatures to maintain homeostasis?",
+      "options": ["Sweating and vasodilation", "Shivering and vasoconstriction", "Increased metabolic rate", "Production of antifreeze proteins"],
+      "correctAnswer": "Sweating and vasodilation"
+    },
+    {
+      "question": "What is the function of the medulla oblongata in the human brainstem?",
+      "options": ["Regulates heartbeat and breathing", "Processes visual information", "Controls voluntary movements", "Regulates body temperature"],
+      "correctAnswer": "Regulates heartbeat and breathing"
+    },
+    {
+      "question": "Which part of the brain is associated with the formation of long-term memories?",
+      "options": ["Hippocampus", "Amygdala", "Thalamus", "Cerebellum"],
+      "correctAnswer": "Hippocampus"
+    },
+    {
+      "question": "What is the purpose of the iris in the human eye?",
+      "options": ["Regulates the amount of light entering the eye", "Forms clear images on the retina", "Detects color of light", "Converts light into electrical signals"],
+      "correctAnswer": "Regulates the amount of light entering the eye"
+    },
+    {
+      "question": "How do photoreceptor cells in the retina respond to light?",
+      "options": ["Convert light into electrical signals", "Reflect light to form images", "Produce hormones in response to light", "Secrete enzymes to digest light particles"],
+      "correctAnswer": "Convert light into electrical signals"
+    },
+    {
+      "question": "Which part of the ear is responsible for transmitting sound vibrations to the auditory nerve?",
+      "options": ["Cochlea", "Eardrum", "Semicircular canals", "Ossicles (bones)"],
+      "correctAnswer": "Cochlea"
+    },
+    {
+      "question": "What is the role of the cerebrospinal fluid in the human nervous system?",
+      "options": ["Provides nutrients to brain cells", "Cushions and protects the brain and spinal cord", "Regulates body temperature", "Transmits electrical signals between neurons"],
+      "correctAnswer": "Cushions and protects the brain and spinal cord"
+    },
+    {
+      "question": "Which hormone is responsible for regulating blood sugar levels in the human body?",
+      "options": ["Insulin", "Thyroxine", "Cortisol", "Glucagon"],
+      "correctAnswer": "Insulin"
+    },
+    {
+      "question": "What is the function of the vestibular system in the human ear?",
+      "options": ["Controls taste perception", "Maintains balance and spatial orientation", "Detects changes in light intensity", "Regulates blood flow in the ear"],
+      "correctAnswer": "Maintains balance and spatial orientation"
+    },
+    {
+      "question": "How do neurons communicate with each other?",
+      "options": ["Chemical signals", "Electrical signals", "Sound waves", "Visual cues"],
+      "correctAnswer": "Chemical signals"
+    },
+    {
+      "question": "Which part of the human brain is responsible for regulating basic life functions such as heartbeat and breathing?",
+      "options": ["Cerebrum", "Hippocampus", "Medulla oblongata", "Cerebellum"],
+      "correctAnswer": "Medulla oblongata"
+    },
+    {
+      "question": "What is the primary function of the auditory nerve in the human ear?",
+      "options": ["Detects sound vibrations", "Transmits sound signals to the brain", "Maintains balance", "Controls earwax production"],
+      "correctAnswer": "Transmits sound signals to the brain"
+    },
+    {
+      "question": "How does the human body regulate blood pressure?",
+      "options": ["By dilating blood vessels", "By constricting blood vessels", "By regulating heart rate", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "Which part of the human brain is responsible for controlling voluntary movements?",
+      "options": ["Frontal lobe", "Occipital lobe", "Temporal lobe", "Parietal lobe"],
+      "correctAnswer": "Frontal lobe"
+    },
+    {
+      "question": "What is the purpose of the olfactory system in humans?",
+      "options": ["Regulates body temperature", "Controls sense of taste", "Detects and processes odors", "Regulates blood pressure"],
+      "correctAnswer": "Detects and processes odors"
+    },
+    {
+      "question": "How does the human body respond to low temperatures to maintain homeostasis?",
+      "options": ["Sweating and vasodilation", "Shivering and vasoconstriction", "Increased metabolic rate", "Production of antifreeze proteins"],
+      "correctAnswer": "Shivering and vasoconstriction"
+    },
+    {
+      "question": "What is the purpose of the autonomic nervous system in the human body?",
+      "options": ["Controls voluntary movements", "Regulates involuntary bodily functions", "Processes visual information", "Regulates body temperature"],
+      "correctAnswer": "Regulates involuntary bodily functions"
+    },
+    {
+      "question": "Which adaptation allowed early humans to communicate complex ideas and concepts?",
+      "options": ["Developing opposable thumbs", "Speech and language abilities", "Enhanced sense of smell", "Ability to fly"],
+      "correctAnswer": "Speech and language abilities"
+    },
+    {
+      "question": "What is the function of the pituitary gland in the human endocrine system?",
+      "options": ["Regulates body temperature", "Controls hunger and thirst", "Regulates hormone secretion", "Maintains sleep-wake cycles"],
+      "correctAnswer": "Regulates hormone secretion"
+    },
+    {
+      "question": "How does the human body respond to dehydration?",
+      "options": ["Increased saliva production", "Increased urination", "Sweating and reduced urine output", "Decreased heart rate"],
+      "correctAnswer": "Sweating and reduced urine output"
+    },
+    {
+      "question": "What is the primary function of the spinal cord in the human nervous system?",
+      "options": ["Processes visual information", "Controls voluntary movements", "Transmits signals between the brain and the body", "Regulates body temperature"],
+      "correctAnswer": "Transmits signals between the brain and the body"
+    },
+    {
+      "question": "Which part of the human brain is responsible for processing sensory information such as touch and pain?",
+      "options": ["Frontal lobe", "Occipital lobe", "Temporal lobe", "Parietal lobe"],
+      "correctAnswer": "Parietal lobe"
+    },
+    {
+      "question": "What is the purpose of the aqueous humor in the human eye?",
+      "options": ["Refracts light to form clear images", "Cushions the eye and maintains its shape", "Provides nutrients to the lens", "Maintains eye pressure"],
+      "correctAnswer": "Maintains eye pressure"
+    },
+    {
+      "question": "How do taste buds in the human tongue detect different flavors?",
+      "options": ["By detecting different temperatures", "By detecting different colors", "By detecting different chemicals", "By detecting different textures"],
+      "correctAnswer": "By detecting different chemicals"
+    },
+    {
+      "question": "What is the role of the pineal gland in the human endocrine system?",
+      "options": ["Regulates body temperature", "Controls hunger and thirst", "Regulates sleep-wake cycles", "Maintains blood pressure"],
+      "correctAnswer": "Regulates sleep-wake cycles"
+    }
+  ]
+}
