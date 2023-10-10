@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import Image from 'next/image';
 import Link from 'next/link';
-import { FiInstagram } from 'react-icons/Fi';
-import { FaTiktok, FaFacebook } from 'react-icons/Fa';
 import Snepe from '../public/icon.png';
 import useFirebase from '../utils/useFirebase';
 import organism from '../public/icon8.jpg';
@@ -94,11 +92,9 @@ export default function Home() {
           </button>
               </form>
 
-            <p className='text-xs font-serif text-black mt-8  '>Follow us on our social media platforms</p>
+            <p className='text-xs text-center font-serif text-black mt-8  '>Follow us on our social media platforms</p>
             <div className='flex flex-row mt-7 ml-20       '> 
-          <a href='https:www.instagram.com' target='blank'><FiInstagram className='mr-2'  /></a>
-            <a href='https:www.tiktok.com' target='blank'><FaTiktok className='mr-2' /></a>
-           <a href='https:facebook.com' target='blank' ><FaFacebook />  </a>  
+
              </div>
 
             </div>
