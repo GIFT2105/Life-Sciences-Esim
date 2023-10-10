@@ -72,7 +72,7 @@ export default function Home() {
                     href='#'
                     onClick={handleForgotPassword}
                   >
-                    forgot password?
+                    Forgot password?
                   </a>
 
               <input
@@ -104,7 +104,7 @@ export default function Home() {
             </div>
             <div className='bg-teal-500 w-52 text-center justify-items-center'>
               <h1 className='font-sans  text-white font-extrabold'>Sign Up instead</h1>
-              <p className=' font-sans text-white  mt-10       '>
+              <p className=' font-sans text-white  mt-10 '>
               Don't have an account? <br/>
               No problem!!
               </p>
